@@ -1,0 +1,22 @@
+#title {
+    color: red;
+    text-align: center;
+    padding: 20px;
+    background-color: lightgreen;
+}
+
+#startButton {
+    color: red;
+    font-size: 35px;
+    padding: 25px;
+    background-color: lightgreen;
+    max-width: 200px;
+    margin-left: 35px;
+    text-align: center;
+}
+
+#container {
+    background-color: green;
+    max-width: 322px;
+    min-height: 500px;
+}
